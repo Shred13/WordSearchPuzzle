@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shreyanshanand/Downloads/JumblePuzzle/JumblePuzzle.cpp
+random
+-
+JumblePuzzle.h
+/Users/shreyanshanand/Downloads/JumblePuzzle/JumblePuzzle.h
+
+/Users/shreyanshanand/Downloads/JumblePuzzle/JumblePuzzle.h
+string
+-
+
+/Users/shreyanshanand/Downloads/JumblePuzzle/main.cpp
+string
+-
+iostream
+-
+ctime
+-
+JumblePuzzle.h
+/Users/shreyanshanand/Downloads/JumblePuzzle/JumblePuzzle.h
+
